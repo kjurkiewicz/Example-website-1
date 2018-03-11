@@ -1,0 +1,22 @@
+{
+  "name": "Example-page-1",
+  "version": "1.0.0",
+  "description": "template for website",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0",
+    "fontawesome": "^4.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "page",
+    "yoga",
+    "template"
+  ],
+  "author": "Karolina Jurkiewicz",
+  "license": "UNLICENSED"
+}
